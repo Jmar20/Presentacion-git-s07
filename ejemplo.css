@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul{
+    background: #5c0f74;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
